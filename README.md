@@ -1,4 +1,4 @@
-# Mis à jour en temps en utilisant Laravel Reverb
+# Mis à jour en temps-Laravel Reverb
 
 ## Description
 Ceci est une application qui démontre l'utilisation de Laravel pour créer une application en temps réel avec WebSockets. 
